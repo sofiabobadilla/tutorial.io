@@ -1,4 +1,6 @@
 # tutorial.io
+This repository is made to follow the tutorial of GitHub pages for devop course. 
+My role in the course is as a grading TA
 
 This template should help get you started developing with Vue 3 in Vite.
 

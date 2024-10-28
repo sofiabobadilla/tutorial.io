@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: '/<tutorial.io>/',
+  base: '/tutorial.io/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src'),
